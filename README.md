@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tkkotee
-- 👀 I’m interested in Python and JS!!!
-- 🌱 I’m currently learning Python and JS!!!
-- 💞️ I’m looking to collaborate on Python and JS!!!
-- 📫 How to reach me email
+- 👀 I’m interested in Flutter, C# and JS!!!
+- 🌱 I’m currently learning React and Deno!!!
+
+- 📫 How to reach me email tarunkoteeswaran@gmail.com
 
 <!---
 tkkotee/tkkotee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
